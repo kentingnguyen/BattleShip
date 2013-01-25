@@ -1,0 +1,1 @@
+This is a combination of battleship programs, starting from command line inputs, expanding to a Java Swing version, and finally an android version.
